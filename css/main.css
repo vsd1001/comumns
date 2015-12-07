@@ -1,0 +1,39 @@
+#black{
+
+	background:url('../img/wwork.jpg') no-repeat center;
+	width:100%;
+	height: 600px;
+	
+}
+#name{
+	font-size: 75px;
+}
+#blue{
+	padding-top: 130px;
+	font-family: comic;
+	font-size: 45px;
+	color: white;
+
+}
+#gray{ 
+	height: 100px;
+	background-color: gray;
+	color: white;
+	text-align: center;
+	font-size: 35px;
+}
+#H{
+	background-color: #d6d6d6;
+}
+#pics{
+	padding-left: 80px;
+}
+#foot{
+	padding-top: 10px;
+	height: 100px;
+	background-color:gray;
+	text-align: center;
+}
+.icons{
+	padding-top: 10px;
+}
